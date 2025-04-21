@@ -1,5 +1,5 @@
 ## whoami
-<img align="right"
+<img align="right" height="100"
 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlyeDQ4NjRsdXg3ZDJ2NHNsaDZoMW9jN25lM3RodnVkYW9nNjVwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QC7UQbxq89MnL9r6AN/giphy.gif" />
 Junior Software Engineer with a solid foundation in computer engineering and experience in backend and frontend development. Skilled in Java, JavaScript, Python, and MySQL, with a focus on applying SOLID principles and design patterns. Dedicated to writing clean, efficient code and delivering scalable, maintainable software solutions.
 
