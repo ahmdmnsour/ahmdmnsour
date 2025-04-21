@@ -2,7 +2,7 @@
 
 Junior Software Engineer with a solid foundation in computer engineering and experience in backend and frontend development. Skilled in Java, JavaScript, Python, and MySQL, with a focus on applying SOLID principles and design patterns. Dedicated to writing clean, efficient code and delivering scalable, maintainable software solutions.
 
-## Tools I used and learned
+## Frameworks / Programming languages / Databases / Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45" />
