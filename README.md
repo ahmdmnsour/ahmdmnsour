@@ -1,6 +1,10 @@
 ## whoami
 
 Junior Software Engineer with a solid foundation in computer engineering and experience in backend and frontend development. Skilled in Java, JavaScript, Python, and MySQL, with a focus on applying SOLID principles and design patterns. Dedicated to writing clean, efficient code and delivering scalable, maintainable software solutions.
+
+## Tools I used and learned
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+
 <!--
 **ahmdmnsour/ahmdmnsour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
