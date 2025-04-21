@@ -1,5 +1,8 @@
 ## whoami
-
+<p align="left">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="git gif" width="40" height="40" />
+  Jesse Pinkman
+</p>
 Junior Software Engineer with a solid foundation in computer engineering and experience in backend and frontend development. Skilled in Java, JavaScript, Python, and MySQL, with a focus on applying SOLID principles and design patterns. Dedicated to writing clean, efficient code and delivering scalable, maintainable software solutions.
 
 ## Frameworks / Programming languages / Databases / Tools
